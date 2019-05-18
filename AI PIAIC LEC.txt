@@ -1,0 +1,10 @@
+1) implementation of AI can increase or enhance upto 13 trillion of the bussiness growth.
+2) There are two types of Ai 
+          1) Artifical Narrow Intelligence: yeh Specific single purpose hota h > ek hii kam krega ek waqt p jese speech recognization toh sirf wohi karega. example smart speaker, self driving car, AI appication in farming or in factory.
+          2) Artificial General Intelligence: yeh General purpose hota h. > Ek model hoga wohi sarii chezain perform karega but abhi iss p itna focus nh sirf ANI p kaam hoo rha h.
+
+*) There is much progress in ANI thats why there is much progress in AI. but there is not much progress in AGI.
+
+Machine learning/programming:
+learning always varies but programming is constant
+
